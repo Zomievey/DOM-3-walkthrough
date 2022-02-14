@@ -1,0 +1,15 @@
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin: 0.5em;
+  color: white;
+  font-size: 3em;
+  line-height: 100px;
+  text-align: center;
+}
+
+#square-holder {
+display: flex;
+flex-wrap: wrap;
+}
